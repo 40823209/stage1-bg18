@@ -34,7 +34,10 @@
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
+<v t="leo.20200818171244.1"><vh>slide 7 </vh>
+<v t="leo.20210316230545.1"><vh>sohjfoi</vh></v>
+<v t="leo.20210316230632.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
@@ -272,22 +275,14 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
     &lt;h2&gt;設計遇到的問題&lt;/h2&gt;
+    &lt;img alt="" height="300" src="/images/有問題.png" width="550"&gt;
 &lt;p&gt;設計的過程中有遇到孔洞錯位的問題，就是上下的孔位並不是同心圓，導致後續的模擬非常卡，
 這也讓我們查找了很久才發現。&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
+     @others
 &lt;/section&gt;
 
 </t>
@@ -639,6 +634,19 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210316220928.1">&lt;section&gt;
     &lt;h2&gt;模擬水球&lt;/h2&gt;
    &lt;img alt="" height="299" src="/images/模擬水球.PNG" width="300"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210316230545.1">&lt;section&gt;
+    &lt;h2&gt;心得與感想&lt;/h2&gt;
+    &lt;h3&gt;40823209 顏沐恩&lt;/h3&gt;
+&lt;p&gt;經過這次的協同產品設計實習，讓我也更加了解到團隊的合作以及團隊溝通的重要性，產品要從無到有真的是件不容易的事，因為並不是設計一次就能完成，常常失敗，而且還要模擬、檢查、修改，前前後後重複做很多次才有機會成功，但也因為這樣的經驗，讓我學到很多知識與經驗，也很謝謝同組的夥伴 柏諺，我們才能一起完成協同產品。後續在設計上一定還會再遇到許多困難，期望能繼續奮鬥下去&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210316230632.1">&lt;section&gt;
+    &lt;h2&gt;心得與感想&lt;/h2&gt;
+    &lt;h3&gt;40823210 李柏諺&lt;/h3&gt;
+    &lt;p&gt;這次二人一組協同產品設計實習，無論在溝通協調、分工作業、操作執行等各方面都是由二人分擔，看似這樣討論上會較容易達成統一，但執行起來的工作量卻也是只有二人來負責，雖說產品設計的並非完美，也同時須配合另一名伙伴的進度，但每次討論修改、每次錯誤都是一種協同產品設計上的經驗，也期待後續四人分工能更加完美。&lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
