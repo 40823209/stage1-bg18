@@ -20,14 +20,20 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210316215853.1"><vh>newHeadline</vh>
+<v t="leo.20200818170636.1"><vh>slide3</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210316220544.1"><vh>newHeadline</vh></v>
+<v t="leo.20210316220603.1"><vh>newHeadline</vh></v>
+<v t="leo.20210316220605.1"><vh>newHeadline</vh></v>
+<v t="leo.20210316220607.1"><vh>newHeadline</vh></v>
+<v t="leo.20210316220928.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
@@ -183,7 +189,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;stage1-bg18&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -208,109 +214,66 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+    &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
+
+    &lt;h2&gt;stage1-bg18&lt;/h2&gt;
+ 
+        &lt;small&gt;Created by &lt;a href="https://40823209.github.io/cd2021/content/index.html "&gt;40823209&lt;/a&gt; and &lt;a href="https://40823210.github.io/cd2021/content/index.html "&gt;40823210&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    &lt;h2&gt;專題名稱:水球發射器&lt;/h2&gt;
+    &lt;img alt="" height="302" src="/images/水球發射器組合.PNG" width="550"&gt;
+        &lt;p&gt;動機:因為夏天將至，在這炎熱的天氣裡，總是要透過游泳、玩水來消暑。
+
+所以我們這組便突發奇想打算設計一把能填裝水球的大砲，並將其發射出去
+
+，以達到娛樂及消暑的部分。&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;零件組合圖&lt;/h2&gt;
+    &lt;img alt="" height="400" src="/images/34組合圖.PNG" width="300"&gt;
+        &lt;p&gt;所使用的零件總共有8項:
+        桶身、拉桿、拉桿彈簧、按鈕基座、按鈕彈簧、按鈕、檔板、模擬水球&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+    &lt;h2&gt;作動模擬&lt;/h2&gt;
+   &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RLEKj5NqJH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+   &lt;p&gt;透過2分之1剖面圖可清楚了解整體作動原理&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;拉桿彈簧&lt;/h2&gt;
+    &lt;img alt="" height="298" src="/images/拉桿彈簧.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;桶身&lt;/h2&gt;
+    &lt;img alt="" height="301" src="/images/桶身.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
+    &lt;h2&gt;拉桿&lt;/h2&gt;
+    &lt;img alt="" height="299" src="/images/拉桿.PNG" width="300"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200818171138.1">&lt;section&gt;
+    &lt;h2&gt;參考文獻&lt;/h2&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oX8uk-VSSDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;h3&gt;Youtuber:胡子Huzi&lt;/h3&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
+<t tx="leo.20200818171215.1">&lt;section&gt;
+    &lt;h2&gt;設計遇到的問題&lt;/h2&gt;
+&lt;p&gt;設計的過程中有遇到孔洞錯位的問題，就是上下的孔位並不是同心圓，導致後續的模擬非常卡，
+這也讓我們查找了很久才發現。&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -648,5 +611,35 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210316215853.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210316220544.1">&lt;section&gt;
+    &lt;h2&gt;按鈕基座&lt;/h2&gt;
+    &lt;img alt="" height="301" src="/images/按鈕基座.PNG" width="300"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210316220603.1">&lt;section&gt;
+    &lt;h2&gt;按鈕彈簧&lt;/h2&gt;
+    &lt;img alt="" height="300" src="/images/按鈕彈簧.PNG" width="300"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210316220605.1">&lt;section&gt;
+    &lt;h2&gt;按鈕&lt;/h2&gt;
+   &lt;img alt="" height="304" src="/images/按鈕.PNG" width="300"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210316220607.1">&lt;section&gt;
+    &lt;h2&gt;檔板&lt;/h2&gt;
+   &lt;img alt="" height="299" src="/images/檔片.PNG" width="300"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210316220928.1">&lt;section&gt;
+    &lt;h2&gt;模擬水球&lt;/h2&gt;
+   &lt;img alt="" height="299" src="/images/模擬水球.PNG" width="300"&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
