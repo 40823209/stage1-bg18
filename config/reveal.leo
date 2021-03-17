@@ -20,6 +20,7 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20210318003848.1"><vh>slide 6</vh></v>
 <v t="leo.20210316215853.1"><vh>newHeadline</vh>
 <v t="leo.20200818170636.1"><vh>slide3</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -196,7 +197,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;專題名稱:水球發射器&lt;/h2&gt;
-    &lt;img alt="" height="302" src="/images/水球發射器組合.PNG" width="550"&gt;
+  &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img caption="false" height="225" src="/images/等角視圖.PNG" width="270"&gt;&lt;img alt="" height="225" src="/images/等角視圖-2.PNG" width="280"&gt;&lt;/strong&gt;&lt;/p&gt;
         &lt;p&gt;動機:因為夏天將至，在這炎熱的天氣裡，總是要透過游泳、玩水來消暑。
 
 所以我們這組便突發奇想打算設計一把能填裝水球的大砲，並將其發射出去
@@ -306,6 +308,14 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;水球發射器之內部構造&lt;/h2&gt;
    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KBVrDuABb50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
    &lt;p&gt;內部各個零件彼此主裝的相對位置&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210318003848.1">&lt;section&gt;
+    &lt;h2&gt;產品視圖&lt;/h2&gt;
+&lt;h4&gt;&lt;img alt="" height="220" src="/images/水球發射器組合.PNG" width="400"&gt;二分之一剖面圖&lt;/h4&gt;
+&lt;h4&gt;&lt;img alt="" height="225" src="/images/上視圖.PNG" width="245"&gt;上視圖&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;img alt="" height="225" src="/images/前視圖.PNG" width="135"&gt;前視圖&lt;/h4&gt;
+
 &lt;/section&gt;
 
 </t>
