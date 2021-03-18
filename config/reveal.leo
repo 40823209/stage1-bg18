@@ -220,7 +220,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
     &lt;h2&gt;作動模擬&lt;/h2&gt;
-   &lt;img alt="" height="600" src="./../images/發射圖F.gif" width="355"&gt;
+   &lt;img alt="" height="355" src="./../images/發射圖F.gif" width="600"&gt;
    &lt;p&gt;透過2分之1剖面圖可清楚了解整體作動原理&lt;/p&gt;
 &lt;/section&gt;
 
