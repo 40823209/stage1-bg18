@@ -198,7 +198,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;專題名稱:水球發射器&lt;/h2&gt;
   &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img caption="false" height="225" src="/images/等角視圖.PNG" width="270"&gt;&lt;img alt="" height="225" src="/images/等角視圖-2.PNG" width="280"&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img caption="false" height="225" src="./../images/等角視圖.PNG" width="270"&gt;&lt;img alt="" height="225" src="/images/等角視圖-2.PNG" width="280"&gt;&lt;/strong&gt;&lt;/p&gt;
         &lt;p&gt;動機:因為夏天將至，在這炎熱的天氣裡，總是要透過游泳、玩水來消暑。
 
 所以我們這組便突發奇想打算設計一把能填裝水球的大砲，並將其發射出去
