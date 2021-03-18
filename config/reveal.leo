@@ -220,7 +220,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
     &lt;h2&gt;作動模擬&lt;/h2&gt;
-   &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RLEKj5NqJH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+   &lt;img alt="" height="600" src="./../images/發射圖F.gif" width="355"&gt;
    &lt;p&gt;透過2分之1剖面圖可清楚了解整體作動原理&lt;/p&gt;
 &lt;/section&gt;
 
@@ -322,7 +322,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210318165147.1">&lt;section&gt;
 &lt;h2&gt;水球發射器之內部構造&lt;/h2&gt;
-&lt;img alt="" height="500" src="./../images/爆炸圖F.gif" width="250"&gt;
+&lt;img alt="" height="400" src="./../images/爆炸圖F.gif" width="250"&gt;
 &lt;p&gt;內部各個零件彼此主裝的相對位置&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318165228.1">&lt;section&gt;
