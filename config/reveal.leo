@@ -198,7 +198,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;專題名稱:水球發射器&lt;/h2&gt;
   &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img caption="false" height="225" src="./../images/等角視圖.PNG" width="270"&gt;&lt;img alt="" height="225" src="/images/等角視圖-2.PNG" width="280"&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img caption="false" height="225" src="./../images/等角視圖.PNG" width="270"&gt;&lt;img alt="" height="225" src="./../images/等角視圖-2.PNG" width="280"&gt;&lt;/strong&gt;&lt;/p&gt;
         &lt;p&gt;動機:因為夏天將至，在這炎熱的天氣裡，總是要透過游泳、玩水來消暑。
 
 所以我們這組便突發奇想打算設計一把能填裝水球的大砲，並將其發射出去
@@ -209,7 +209,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
     &lt;h2&gt;零件組合圖&lt;/h2&gt;
-    &lt;img alt="" height="400" src="/images/34組合圖.PNG" width="300"&gt;
+    &lt;img alt="" height="400" src="./../images/34組合圖.PNG" width="300"&gt;
         &lt;p&gt;所使用的零件總共有8項:
         桶身、拉桿、拉桿彈簧、按鈕基座、按鈕彈簧、按鈕、檔板、模擬水球&lt;/p&gt;
 &lt;/section&gt;
@@ -224,17 +224,17 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;拉桿彈簧&lt;/h2&gt;
-    &lt;img alt="" height="298" src="/images/拉桿彈簧.PNG" width="300"&gt;
+    &lt;img alt="" height="298" src="./../images/拉桿彈簧.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;桶身&lt;/h2&gt;
-    &lt;img alt="" height="301" src="/images/桶身.PNG" width="300"&gt;
+    &lt;img alt="" height="301" src="./../images/桶身.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h2&gt;拉桿&lt;/h2&gt;
-    &lt;img alt="" height="299" src="/images/拉桿.PNG" width="300"&gt;
+    &lt;img alt="" height="299" src="./../images/拉桿.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
@@ -246,7 +246,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
     &lt;h2&gt;設計遇到的問題&lt;/h2&gt;
-    &lt;img alt="" height="300" src="/images/有問題.png" width="550"&gt;
+    &lt;img alt="" height="300" src="./../images/有問題.png" width="550"&gt;
 &lt;p&gt;設計的過程中有遇到孔洞錯位的問題，就是上下的孔位並不是同心圓，導致後續的模擬非常卡，
 這也讓我們查找了很久才發現。&lt;/p&gt;
 &lt;/section&gt;
@@ -264,27 +264,27 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210316220544.1">&lt;section&gt;
     &lt;h2&gt;按鈕基座&lt;/h2&gt;
-    &lt;img alt="" height="301" src="/images/按鈕基座.PNG" width="300"&gt;
+    &lt;img alt="" height="301" src="./../images/按鈕基座.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210316220603.1">&lt;section&gt;
     &lt;h2&gt;按鈕彈簧&lt;/h2&gt;
-    &lt;img alt="" height="300" src="/images/按鈕彈簧.PNG" width="300"&gt;
+    &lt;img alt="" height="300" src="./../images/按鈕彈簧.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210316220605.1">&lt;section&gt;
     &lt;h2&gt;按鈕&lt;/h2&gt;
-   &lt;img alt="" height="304" src="/images/按鈕.PNG" width="300"&gt;
+   &lt;img alt="" height="304" src="./../images/按鈕.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210316220607.1">&lt;section&gt;
     &lt;h2&gt;檔板&lt;/h2&gt;
-   &lt;img alt="" height="299" src="/images/檔片.PNG" width="300"&gt;
+   &lt;img alt="" height="299" src="./../images/檔片.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210316220928.1">&lt;section&gt;
     &lt;h2&gt;模擬水球&lt;/h2&gt;
-   &lt;img alt="" height="299" src="/images/模擬水球.PNG" width="300"&gt;
+   &lt;img alt="" height="299" src="./../images/模擬水球.PNG" width="300"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210316230545.1">&lt;section&gt;
@@ -313,8 +313,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210318003848.1">&lt;section&gt;
     &lt;h2&gt;產品視圖&lt;/h2&gt;
-&lt;h4&gt;&lt;img alt="" height="220" src="/images/水球發射器組合.PNG" width="400"&gt;二分之一剖面圖&lt;/h4&gt;
-&lt;h4&gt;&lt;img alt="" height="225" src="/images/上視圖.PNG" width="245"&gt;上視圖&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;img alt="" height="225" src="/images/前視圖.PNG" width="135"&gt;前視圖&lt;/h4&gt;
+&lt;h4&gt;&lt;img alt="" height="220" src="./../images/水球發射器組合.PNG" width="400"&gt;二分之一剖面圖&lt;/h4&gt;
+&lt;h4&gt;&lt;img alt="" height="225" src="./../images/上視圖.PNG" width="245"&gt;上視圖&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;img alt="" height="225" src="./../images/前視圖.PNG" width="135"&gt;前視圖&lt;/h4&gt;
 
 &lt;/section&gt;
 
